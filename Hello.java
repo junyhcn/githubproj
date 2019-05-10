@@ -3,4 +3,5 @@ public class Hello{
 		System.out.println("Hello java");
 		System.out.println("Hello JavaEE");
 		System.out.println("android");
+		System.out.println("ios");
 	}
